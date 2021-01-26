@@ -1,2 +1,2 @@
-cat("My favorite food is lox and bagel")
+cat("My favorite food is lox and bagel.")
 
