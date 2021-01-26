@@ -3,6 +3,7 @@
 - [@dakep](https://github.com/dakep)
 <<<<<<< HEAD
 - [@raytighe](https://github.com/raytighe)
+- [@joshglwright](https://github.com/joshglwright)
 =======
 - [@jhiggin-gmu](https://github.com/jhiggin-gmu)
 - [@tsong4](https://github.com/tsong4)
