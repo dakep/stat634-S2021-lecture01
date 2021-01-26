@@ -1,0 +1,1 @@
+cat("My favorite fruit is an apple.")
