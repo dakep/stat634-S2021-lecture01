@@ -10,3 +10,4 @@
 - [@katerina735](https://github.com/katerina735)
 - [@JoePatrick94](https://github.com/JoePatrick94)
 - [@ambruno](https://github.com/ambruno)
+(https://github.com/zhiruo26)
