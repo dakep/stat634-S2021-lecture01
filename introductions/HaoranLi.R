@@ -1,0 +1,1 @@
+cat("I like Chinese food - Haoran Li")
