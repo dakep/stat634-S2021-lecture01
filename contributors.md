@@ -10,4 +10,5 @@
 - [@katerina735](https://github.com/katerina735)
 - [@JoePatrick94](https://github.com/JoePatrick94)
 - [@ambruno](https://github.com/ambruno)
+- [@shoyland](https://github.com/shoyland)
 (https://github.com/zhiruo26)
